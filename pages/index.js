@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
         <meta name="description" content="MedOnCall" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.svg" />
       </Head>
     </div>
   );
