@@ -1,5 +1,10 @@
 function Header() {
-  return <div>I am the header</div>;
+  return (
+    <div>
+      {/* Left header */}
+      {/* Right Header */}
+    </div>
+  );
 }
 
 export default Header;
