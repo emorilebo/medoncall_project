@@ -15,16 +15,10 @@ function Header() {
 
       {/* Right Header */}
       <div>
-        <div>
-          {/* Features */}
-        </div>
-        <div>
-          {/* FAQ */}
-        </div>
-        <div>
-          Contact
-        </div>
-        div
+        <div>{/* Features */}</div>
+        <div>{/* FAQ */}</div>
+        <div>Contact</div>
+        <button>Get it Now</button>
       </div>
     </div>
   );
