@@ -3,7 +3,9 @@ function Header() {
     <div>
       {/* Left header */}
       <div>
-        <div className="text-red-500">MedonCall</div>
+        <a href="#">
+          <h1>MedOnCall</h1>
+        </a>
         <div>
           <img src="ellipse.svg" alt="" />
           <img src="ellipse.svg" alt="" />
