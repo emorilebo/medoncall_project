@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <div>
+    <div className="flex">
       {/* Left header */}
       <div className="bg-red-500">
         <a href="#">
