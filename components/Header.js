@@ -12,7 +12,20 @@ function Header() {
           <img src="ellipse.svg" alt="" />
         </div>
       </div>
+
       {/* Right Header */}
+      <div>
+        <div>
+          {/* Features */}
+        </div>
+        <div>
+          {/* FAQ */}
+        </div>
+        <div>
+          Contact
+        </div>
+        div
+      </div>
     </div>
   );
 }
