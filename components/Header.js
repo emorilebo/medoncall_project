@@ -2,9 +2,9 @@ function Header() {
   return (
     <div>
       {/* Left header */}
-      <div>
+      <div className="bg-red-500">
         <a href="#">
-          <div className="text-grey-500 text-xs">MedOnCall</div>
+          <div className="text-red-500 text-xs">MedOnCall</div>
         </a>
         <div>
           <img src="ellipse.svg" alt="" />
