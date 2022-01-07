@@ -4,7 +4,7 @@ function Header() {
       {/* Left header */}
       <div>
         <a href="#">
-          <h1>MedOnCall</h1>
+          <h1 className="text-grey-500">MedOnCall</h1>
         </a>
         <div>
           <img src="ellipse.svg" alt="" />
