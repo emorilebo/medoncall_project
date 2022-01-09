@@ -1,3 +1,5 @@
+import Features from "./Features";
+
 function Header() {
   return (
     <div className="flex">
@@ -16,7 +18,9 @@ function Header() {
       {/* Right Header */}
       <div>
         <div>{/* Features */}</div>
-        <div>{/* FAQ */}</div>
+        <div>
+          <Features />
+        </div>
         <div>Contact</div>
         <button>Get it Now</button>
       </div>
